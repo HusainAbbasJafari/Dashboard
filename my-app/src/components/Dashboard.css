@@ -1,0 +1,22 @@
+.top-most{
+    padding: none !important;
+}
+main{
+    width:100vw;
+    height: 100vh;
+}
+
+.height-full{
+    height: 100%;
+   
+}
+
+.width-sidebar{
+    max-width: 25vw;
+}
+.right-panel{
+    width:100%;
+}
+.full-width{
+    width:100vw;
+}
